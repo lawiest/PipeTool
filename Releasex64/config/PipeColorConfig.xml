@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="\" Description="" Type="System.String">
+    <Config Name="ColorMapping" Description="" Type="String">
+        <Config Name="DL" Description="电力" Type="String">
+            <Config Name="GDX" Description="供电管线" Type="String">
+                <Value>255,0,0</Value>
+            </Config>
+            <Config Name="LDX" Description="路灯管线" Type="String">
+                <Value>255,0,0</Value>
+            </Config>
+            <Config Name="JTX" Description="交通信号管线" Type="String">
+                <Value>255,0,0</Value>
+            </Config>
+            <Config Name="GGX" Description="广告管线" Type="String">
+                <Value>255,0,0</Value>
+            </Config>
+            <Config Name="DCX" Description="电车" Type="String">
+                <Value>255,0,0</Value>
+            </Config>
+            <Config Name="DCS" Description="输电长输线" Type="String">
+                <Value>255,0,0</Value>
+            </Config>
+            <Config Name="QTX" Description="其他" Type="String">
+                <Value>255,0,0</Value>
+            </Config>
+        </Config>
+        <Config Name="XX" Description="信息与通信" Type="String">
+            <Config Name="TXX" Description="通讯管线" Type="String">
+                <Value>0,255,0</Value>
+            </Config>
+            <Config Name="YXX" Description="有线电视管线" Type="String">
+                <Value>0,255,255</Value>
+            </Config>
+            <Config Name="GBX" Description="广播管线" Type="String">
+                <Value>0,255,255</Value>
+            </Config>
+            <Config Name="XCS" Description="通信长输线" Type="String">
+                <Value>0,255,0</Value>
+            </Config>
+            <Config Name="QTX" Description="其他" Type="String">
+                <Value>0,255,0</Value>
+            </Config>
+        </Config>
+        <Config Name="JS" Description="给水" Type="String">
+            <Config Name="SYG" Description="原水管线" Type="String">
+                <Value>0,0,255</Value>
+            </Config>
+            <Config Name="SSG" Description="自来水管线" Type="String">
+                <Value>0,0,255</Value>
+            </Config>
+            <Config Name="ZSG" Description="中水管线" Type="String">
+                <Value>0,0,255</Value>
+            </Config>
+            <Config Name="ZYS" Description="直饮水管线" Type="String">
+                <Value>0,0,255</Value>
+            </Config>
+            <Config Name="SCS" Description="其它" Type="String">
+                <Value>0,0,255</Value>
+            </Config>
+        </Config>
+        <Config Name="PS" Description="排水" Type="String">
+            <Config Name="YSG" Description="雨水管线" Type="String">
+                <Value>76,0,0</Value>
+            </Config>
+            <Config Name="WSG" Description="污水管线" Type="String">
+                <Value>76,0,0</Value>
+            </Config>
+            <Config Name="HSG" Description="合流管线" Type="String">
+                <Value>76,0,0</Value>
+            </Config>
+            <Config Name="QTX" Description="其它" Type="String">
+                <Value>0,0,255</Value>
+            </Config>
+        </Config>
+        <Config Name="RQ" Description="燃气" Type="String">
+            <Config Name="TRQ" Description="天然气管线" Type="String">
+                <Value>127,0,95</Value>
+            </Config>
+            <Config Name="YHQ" Description="液化气管线" Type="String">
+                <Value>255,0,191</Value>
+            </Config>
+            <Config Name="MQG" Description="煤气管线" Type="String">
+                <Value>191,0,255</Value>
+            </Config>
+            <Config Name="RCS" Description="输气长输线" Type="String">
+                <Value>127,0,95</Value>
+            </Config>
+            <Config Name="QTX" Description="其它" Type="String">
+                <Value>127,0,95</Value>
+            </Config>
+        </Config>
+        <Config Name="RL" Description="热力" Type="String">
+            <Config Name="RSG" Description="热水管线" Type="String">
+                <Value>255,0,255</Value>
+            </Config>
+            <Config Name="ZQG" Description="蒸汽管线" Type="String">
+                <Value>255,0,255</Value>
+            </Config>
+            <Config Name="QTX" Description="其它" Type="String">
+                <Value>255,0,255</Value>
+            </Config>
+        </Config>
+        <Config Name="GY" Description="工业管道" Type="String">
+            <Config Name="QQG" Description="氢气管线" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+            <Config Name="YQG" Description="氧气管线" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+            <Config Name="YIQ" Description="乙炔管线" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+            <Config Name="YXG" Description="乙烯管线" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+            <Config Name="YLG" Description="油料管线" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+            <Config Name="PZG" Description="排渣管线" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+            <Config Name="YCS" Description="输油长输线" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+            <Config Name="QTX" Description="其它" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+        </Config>
+        <Config Name="ZH" Description="综合管沟" Type="String">
+            <Config Name="GXG" Description="干线综合管线" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+            <Config Name="ZXG" Description="支线综合管线" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+            <Config Name="LXG" Description="缆线综合管线" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+            <Config Name="DLG" Description="道路过路综合管线" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+            <Config Name="QTX" Description="其它" Type="String">
+                <Value>255,191,0</Value>
+            </Config>
+        </Config>
+        <Config Name="BM" Description="不明管线" Type="String">
+            <Config Name="BMG" Description="干线综合管线" Type="String">
+                <Value>191,255,0</Value>
+            </Config>
+        </Config>
+    </Config>
+</Config>

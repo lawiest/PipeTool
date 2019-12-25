@@ -1,0 +1,28 @@
+Logging to file f:\管线\管道\管线附属物模型库\dianli\0113001_shanggan\GEF.log
+Found node: Tube01
+Found mesh node: Tube01
+Info: Number of map channel (UV) found in this mesh : 1
+Exporting 1 textures...
+Exporting 0 texture from Bitmap...
+Texture Index: 0
+Texture Name: Map #22
+Updated texture location: F:\管线\管道\管线附属物模型库\dianli\0113001_shanggan\g001.jpg.
+Diffuse channel texture.
+Exporting 1 textures...
+Exporting 0 texture from Bitmap...
+Texture Index: 0
+Texture Name: Map #23
+Updated texture location: F:\管线\管道\管线附属物模型库\dianli\0113001_shanggan\g002.jpg.
+Diffuse channel texture.
+Writing Tube01 mesh binary...
+Info: Create Ogre submeshs
+Info: create submesh : 0
+Info: create submesh : 1
+Info: Create mesh bounding box
+Info: Create mesh tangents
+Info: Write mesh file : f:\管线\管道\管线附属物模型库\dianli\0113001_shanggan\Tube01.mesh
+Writing materials data...
+Copy material textures files
+Error while copying texture file F:\管线\管道\管线附属物模型库\dianli\0113001_shanggan\g001.jpg to f:\管线\管道\管线附属物模型库\dianli\0113001_shanggan\g001.jpg
+Error while copying texture file F:\管线\管道\管线附属物模型库\dianli\0113001_shanggan\g002.jpg to f:\管线\管道\管线附属物模型库\dianli\0113001_shanggan\g002.jpg
+Info: export done.

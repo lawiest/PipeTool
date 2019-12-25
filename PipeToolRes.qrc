@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>SynBuilder.ico</file>
+  </qresource>
+</RCC>

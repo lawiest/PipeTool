@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="\" Description="" Type="System.String">
+    <Config Name="FieldsMapping" Description="管线字段映射" Type="String">
+        <Config Name="ENDDEEP" Description="管线终点埋深" Type="String">
+            <Value>ZDMS</Value>
+        </Config>
+        <Config Name="ENDHEIGHT" Description="管线终点高程" Type="String">
+            <Value>ZDGC</Value>
+        </Config>
+        <Config Name="PIPEEID" Description="管线终点编号" Type="String">
+            <Value>ZDDH</Value>
+        </Config>
+        <Config Name="PIPEID" Description="管线编号" Type="String">
+            <Value>FEATURECOD</Value>
+        </Config>
+        <Config Name="PIPESID" Description="管线起点编号" Type="String">
+            <Value>QDDH</Value>
+        </Config>
+        <Config Name="PIPESIZE" Description="管径" Type="String">
+            <Value>GJ</Value>
+        </Config>
+        <Config Name="PIPETYPE" Description="管线类型" Type="String"/>
+        <Config Name="STARTDEEP" Description="管线起点埋深" Type="String">
+            <Value>QDMS</Value>
+        </Config>
+        <Config Name="STARTHEIGHT" Description="管线起点高程" Type="String">
+            <Value>QDGC</Value>
+        </Config>
+    </Config>
+</Config>

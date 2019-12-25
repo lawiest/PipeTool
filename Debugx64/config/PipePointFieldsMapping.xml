@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="\" Description="" Type="System.String">
+    <Config Name="FieldsMapping" Description="管线字段映射" Type="String">
+        <Config Name="FEATUREPOINT" Description="特征点" Type="String">
+            <Value>TZD</Value>
+        </Config>
+        <Config Name="GROUNDELEV" Description="地面高程" Type="String">
+            <Value>DMGC</Value>
+        </Config>
+        <Config Name="POINTDEEP" Description="管点埋深" Type="String"/>
+        <Config Name="POINTHEIGHT" Description="管点高程" Type="String"/>
+        <Config Name="POINTID" Description="物探点号" Type="String">
+            <Value>WTDH</Value>
+        </Config>
+        <Config Name="POINTMODEL" Description="附属物" Type="String">
+            <Value>FSW</Value>
+        </Config>
+        <Config Name="ROTATEANGLE" Description="旋转角" Type="String">
+            <Value>XZJ</Value>
+        </Config>
+    </Config>
+</Config>
